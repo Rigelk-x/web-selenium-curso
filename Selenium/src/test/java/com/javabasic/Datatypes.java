@@ -29,6 +29,7 @@ public class Datatypes {
 		altura = 40.76; 
 		
 		System.out.println(base);
+		System.out.println(altura);
 
 	}
 
